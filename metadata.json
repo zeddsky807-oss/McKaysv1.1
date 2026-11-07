@@ -1,0 +1,6 @@
+{
+  "name": "McKays",
+  "description": "Aplikasi inventaris dan kasir parfum McKays V.1.1 dengan pengadaan stok manual admin, omset harian kalender Masehi, varian botol 10-100ml, dan ekspor data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
